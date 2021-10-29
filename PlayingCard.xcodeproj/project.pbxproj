@@ -17,6 +17,7 @@
 		309A3394272A9CC9006A8394 /* PlayingCardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A3393272A9CC9006A8394 /* PlayingCardUITests.swift */; };
 		309A33A5272A9D73006A8394 /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A33A4272A9D73006A8394 /* PlayingCard.swift */; };
 		309A33A7272AAB8C006A8394 /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A33A6272AAB8C006A8394 /* PlayingCardDeck.swift */; };
+		309A33A9272AC96F006A8394 /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A33A8272AC96F006A8394 /* PlayingCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		309A3395272A9CC9006A8394 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		309A33A4272A9D73006A8394 /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PlayingCard.swift; path = "Supporting Filea/PlayingCard.swift"; sourceTree = "<group>"; };
 		309A33A6272AAB8C006A8394 /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
+		309A33A8272AC96F006A8394 /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				309A33A6272AAB8C006A8394 /* PlayingCardDeck.swift */,
 				309A3373272A9CC7006A8394 /* SceneDelegate.swift */,
 				309A3375272A9CC7006A8394 /* ViewController.swift */,
+				309A33A8272AC96F006A8394 /* PlayingCardView.swift */,
 				309A3377272A9CC7006A8394 /* Main.storyboard */,
 				309A337A272A9CC8006A8394 /* Assets.xcassets */,
 				309A337F272A9CC8006A8394 /* Info.plist */,
@@ -273,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				309A3376272A9CC7006A8394 /* ViewController.swift in Sources */,
+				309A33A9272AC96F006A8394 /* PlayingCardView.swift in Sources */,
 				309A3372272A9CC7006A8394 /* AppDelegate.swift in Sources */,
 				309A33A7272AAB8C006A8394 /* PlayingCardDeck.swift in Sources */,
 				309A33A5272A9D73006A8394 /* PlayingCard.swift in Sources */,
